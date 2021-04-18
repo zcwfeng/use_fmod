@@ -10,29 +10,30 @@ FMOD 一个比较好的声音库，个人觉得简单容易上手，还算稳定
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  use_fmod 搜索Github或者Gitee 都可以
+2.  TODO:其他特性添加
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  Android，NDK,Java,Kotlin 环境搭建好
+2.  FMOD 库已经集成会不定时更新。
+3.  用到的语言C++,Java,Kotlin.
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  Fork 本仓库，在Gitee和Github都有，定期同步
+2.  请检查分支，由于github存在master和main，新老项目差异
+3.  提交代码，请注意分支，或者什么好的建议，写到这上面，欢迎共同维护。
 
 
 #### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
+
+2. Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
+
+3. 你可以 [https://gitee.com/zcwfeng](https://gitee.com/zcwfeng) 这个地址来了解 Gitee 上的优秀开源项目
+
+4. 也可以到[https://github.com/zcwfeng](https://github.com/zcwfeng) 
+
+   
